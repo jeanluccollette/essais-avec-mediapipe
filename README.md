@@ -20,17 +20,35 @@ pip install opencv-python
 
 https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr
 
-
+```python
+python faces_visu.py
+```
 
 ### Reconnaissance de gestes
 
 https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=fr
 
+```python
+python mains_visu.py
+```
+
+
 ### Détection d'objets
 
 https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector/python?hl=fr
 
+```python
+python objets_visu.py
+```
+
+
 ### Détection des points de repère sur le visages
 
 https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python?hl=fr
+
+
+```python
+python visage_visu.py
+```
+
 
