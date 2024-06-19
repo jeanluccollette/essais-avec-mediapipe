@@ -18,9 +18,9 @@ pip install opencv-python
 
 ### Détection de visages
 
-[description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=fr)
-
 https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr
+
+
 
 ### Reconnaissance de gestes
 
