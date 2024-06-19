@@ -31,7 +31,7 @@ Choisir la source :
 1 : webcam1
 2 : fichier image
 3 : fichier video
-```python
+```
 
 
 ### Reconnaissance de gestes
