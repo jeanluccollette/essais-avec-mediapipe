@@ -67,7 +67,7 @@ Programme à lancer
 python objets_visu.py
 ```
 
-### Détection des points de repère sur le visages
+### Détection des points de repère de visage
 
 [Description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python?hl=fr)
 
