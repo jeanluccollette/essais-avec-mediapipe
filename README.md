@@ -27,7 +27,7 @@ Dans ce fichier archive :
 
 ### Mode d'emploi sommaire
 
-Après avoir lançé les programmes fournis, on obtient à quelques détails près l'affichage ci-dessous.
+Après avoir lançé les programmes décris ci-après, on obtient à quelques détails près l'affichage ci-dessous.
 
 ```python
 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
@@ -38,76 +38,39 @@ Choisir la source :
 3 : fichier video
 ```
 
+On peut alors choisir une source vidéo directe (webcam) ou un fichier image ou vidéo.
+
 ### Détection de visages
 
-https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr
+[Description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr)
 
 ```python
 python faces_visu.py
 ```
 
-```python
-INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-Choisir la source :
-0 : webcam0
-1 : webcam1
-2 : fichier image
-3 : fichier video
-```
-
-
 ### Reconnaissance de gestes
 
-https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=fr
+[Description](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=fr)
 
+Programme à lancer
 ```python
 python mains_visu.py
 ```
 
-```python
-INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-Choisir la source :
-0 : webcam0
-1 : webcam1
-2 : fichier image
-3 : fichier video
-```
-
 ### Détection d'objets
 
-https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector/python?hl=fr
+[Description](https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector/python?hl=fr)
 
+Programme à lancer
 ```python
 python objets_visu.py
 ```
 
-```python
-INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-Choisir la source :
-0 : webcam0
-1 : webcam1
-2 : fichier image
-3, 4, 5 : fichier video
-```
-
 ### Détection des points de repère sur le visages
 
-https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python?hl=fr
+[Description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python?hl=fr)
 
-
+Programme à lancer
 ```python
 python visage_visu.py
 ```
-
-```python
-WARNING: Logging before InitGoogleLogging() is written to STDERR
-W20240619 16:49:42.567196 10260 face_landmarker_graph.cc:168] Face blendshape model contains CPU only ops. Sets FaceBlendshapesGraph acceleration to Xnnpack.
-INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-Choisir la source :
-0 : webcam0
-1 : webcam1
-2 : fichier image
-3 : fichier video
-```
-
-
