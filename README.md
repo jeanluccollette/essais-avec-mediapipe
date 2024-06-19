@@ -18,6 +18,11 @@ pip install opencv-python
  
 Les programmmes mentionnés ci-après sont dans le fichier archive [mediapipe.zip](Data/mediapipe.zip) (dossier Data).
 
+Dans ce fichier archive :
+- dossier **code** : les programmes Python lançant les exemples
+- dossier ** images_vidéos ** : quelques images et vidéos pour tester les méthodes
+- dossier **tflite_task** : les fichiers fournis par MediaPipe pour construire les détecteurs
+
 ## Les exemples
 
 ### Détection de visages
