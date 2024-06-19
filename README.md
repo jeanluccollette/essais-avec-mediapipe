@@ -49,7 +49,7 @@ Programme à lancer
 python faces_visu.py
 ```
 
-### Reconnaissance de gestes
+### Détection des points de repère manuels
 
 [Description](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=fr)
 
