@@ -20,7 +20,7 @@ Les programmmes mentionnés ci-après sont dans le fichier archive [mediapipe.zi
 
 Dans ce fichier archive :
 - dossier **code** : les programmes Python lançant les exemples
-- dossier **images_vidéos** : quelques images et vidéos pour tester les méthodes
+- dossier **images_videos** : quelques images et vidéos pour tester les méthodes
 - dossier **tflite_task** : les fichiers fournis par MediaPipe pour construire les détecteurs
 
 ## Les exemples
