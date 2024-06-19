@@ -24,7 +24,7 @@ https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr
 
 ### Reconnaissance de gestes
 
-https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python?hl=fr
+https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python?hl=fr
 
 ### Détection d'objets
 
