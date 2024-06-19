@@ -20,10 +20,23 @@ Les programmmes mentionnés ci-après sont dans le fichier archive [mediapipe.zi
 
 Dans ce fichier archive :
 - dossier **code** : les programmes Python lançant les exemples
-- dossier ** images_vidéos ** : quelques images et vidéos pour tester les méthodes
+- dossier **images_vidéos** : quelques images et vidéos pour tester les méthodes
 - dossier **tflite_task** : les fichiers fournis par MediaPipe pour construire les détecteurs
 
 ## Les exemples
+
+### Mode d'emploi sommaire
+
+Après avoir lançé les programmes fournis, on obtient à quelques détails près l'affichage ci-dessous.
+
+```python
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Choisir la source :
+0 : webcam0
+1 : webcam1
+2 : fichier image
+3 : fichier video
+```
 
 ### Détection de visages
 
