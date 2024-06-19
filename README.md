@@ -44,6 +44,7 @@ On peut alors choisir une source vidéo directe (webcam) ou un fichier image ou 
 
 [Description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector/python?hl=fr)
 
+Programme à lancer
 ```python
 python faces_visu.py
 ```
