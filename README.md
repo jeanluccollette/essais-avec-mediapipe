@@ -13,3 +13,22 @@ Les programmes proposés font aussi appel à [Opencv](https://pypi.org/project/o
 ```python
 pip install opencv-python
 ```
+
+## Les exemples
+
+### Détection de visages
+
+[description](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=fr)
+
+### Reconnaissance de gestes
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python?hl=fr
+
+### Détection d'objets
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector/python?hl=fr
+
+### Détection des points de repère sur le visages
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python?hl=fr
+
