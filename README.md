@@ -15,8 +15,8 @@ Installation :
 ```python
 pip install opencv-python
 ```
-
-Les programmmes mentionnés ci-après sont dans le fichier archive [mediapipe](Code/mediapipe.zip).
+ 
+Les programmmes mentionnés ci-après sont dans le fichier archive [mediapipe.zip](Data/mediapipe.zip) (dossier Data).
 
 ## Les exemples
 
