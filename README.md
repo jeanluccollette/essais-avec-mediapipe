@@ -9,7 +9,7 @@ Installation :
 pip install mediapipe
 ```
 
-Les programmes proposés font aussi appel à [Opencv](https://pypi.org/project/opencv-python/), donnant accès à la gestion et au tratement des images et des vidéos.
+Les programmes proposés font aussi appel à [Opencv](https://pypi.org/project/opencv-python/), donnant accès à la gestion et au traitement des images et des vidéos.
 
 Installation :
 ```python
@@ -27,7 +27,7 @@ Dans ce fichier archive :
 
 ### Mode d'emploi sommaire
 
-Après avoir lançé les programmes décris ci-après, on obtient à quelques détails près l'affichage ci-dessous.
+Après avoir lançé les programmes décrits ci-après, on obtient à quelques détails près l'affichage ci-dessous.
 
 ```python
 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
