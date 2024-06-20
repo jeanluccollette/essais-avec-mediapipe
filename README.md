@@ -6,7 +6,7 @@
 
 Sur le site de MediaPipe, des exemples de code en Python sont proposés dans des notebooks, où les données traitées se limitent à des images fixes. Les programmmes mis ici à disposition s'inspirent de ces exemples pour traiter aussi des flux vidéo (webcam ou fichiers vidéo).
 
-Pour disposer de l'environnement MediaPipe, 
+Pour disposer de l'environnement MediaPipe, la procédure d'installation est simple.
 
 Installation :
 ```python
